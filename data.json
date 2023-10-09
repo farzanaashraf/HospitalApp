@@ -1,0 +1,38 @@
+[
+  {
+    "hospitalName": "Amritha EKM",
+    "patientsCount": 5100,
+    "location": "Ernakulam",
+    "id": 102
+  },
+  {
+    "hospitalName": "apollo",
+    "patientsCount": 3500,
+    "location": "Ernakulam",
+    "id": 103
+  },
+  {
+    "hospitalName": "apollo",
+    "patientsCount": 4500,
+    "location": "Kozhikodu",
+    "id": 104
+  },
+  {
+    "hospitalName": "PRS",
+    "patientsCount": 4900,
+    "location": "TRV",
+    "id": 105
+  },
+  {
+    "hospitalName": "Tergooi",
+    "patientsCount": 800,
+    "location": "Amsterdam",
+    "id": 106
+  },
+  {
+    "hospitalName": "AMC",
+    "patientsCount": 3500,
+    "location": "Amsterdam",
+    "id": 107
+  }
+]
